@@ -1,0 +1,6 @@
+G:\HackBulgaria\AlgoTest\Algo_1\Encrypted message\bin\Debug\Encrypted message.exe.config
+G:\HackBulgaria\AlgoTest\Algo_1\Encrypted message\obj\Debug\Encrypted message.csprojResolveAssemblyReference.cache
+G:\HackBulgaria\AlgoTest\Algo_1\Encrypted message\bin\Debug\Encrypted message.exe
+G:\HackBulgaria\AlgoTest\Algo_1\Encrypted message\bin\Debug\Encrypted message.pdb
+G:\HackBulgaria\AlgoTest\Algo_1\Encrypted message\obj\Debug\Encrypted message.exe
+G:\HackBulgaria\AlgoTest\Algo_1\Encrypted message\obj\Debug\Encrypted message.pdb

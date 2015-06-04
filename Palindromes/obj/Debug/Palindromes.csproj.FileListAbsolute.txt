@@ -1,0 +1,6 @@
+G:\HackBulgaria\AlgoTest\Algo_1\Palindromes\bin\Debug\Palindromes.exe.config
+G:\HackBulgaria\AlgoTest\Algo_1\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+G:\HackBulgaria\AlgoTest\Algo_1\Palindromes\bin\Debug\Palindromes.exe
+G:\HackBulgaria\AlgoTest\Algo_1\Palindromes\bin\Debug\Palindromes.pdb
+G:\HackBulgaria\AlgoTest\Algo_1\Palindromes\obj\Debug\Palindromes.exe
+G:\HackBulgaria\AlgoTest\Algo_1\Palindromes\obj\Debug\Palindromes.pdb
